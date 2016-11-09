@@ -1,0 +1,17 @@
+package enums;
+
+public enum Cantos {
+
+	FLOR,
+	CONTRA_FLOR,
+	ENVIDO,
+	REAL_ENVIDO,
+	FALTA_ENVIDO,
+	TRUCO,
+	RETRUCO,
+	VALE_CUATRO,
+	MAZO,
+	QUIERO,
+	NO_QUIERO,
+
+}
